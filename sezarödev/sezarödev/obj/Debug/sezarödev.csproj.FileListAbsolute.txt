@@ -1,0 +1,10 @@
+C:\Users\SENA\source\repos\sezarödev\sezarödev\bin\Debug\sezarödev.exe.config
+C:\Users\SENA\source\repos\sezarödev\sezarödev\bin\Debug\sezarödev.exe
+C:\Users\SENA\source\repos\sezarödev\sezarödev\bin\Debug\sezarödev.pdb
+C:\Users\SENA\source\repos\sezarödev\sezarödev\obj\Debug\sezarödev.csproj.AssemblyReference.cache
+C:\Users\SENA\source\repos\sezarödev\sezarödev\obj\Debug\sezarödev.Form1.resources
+C:\Users\SENA\source\repos\sezarödev\sezarödev\obj\Debug\sezarödev.Properties.Resources.resources
+C:\Users\SENA\source\repos\sezarödev\sezarödev\obj\Debug\sezarödev.csproj.GenerateResource.cache
+C:\Users\SENA\source\repos\sezarödev\sezarödev\obj\Debug\sezarödev.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\sezarödev\sezarödev\obj\Debug\sezarödev.exe
+C:\Users\SENA\source\repos\sezarödev\sezarödev\obj\Debug\sezarödev.pdb
